@@ -18,5 +18,5 @@ cheatset generate Spacemacs.rb
 
 ## References
 
-[Spacemacs - The best editor is neither Emacs nor Vim, it's Emacs and Vim!](http://spacemacs.org)
-[Dash - API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
+* [Spacemacs - The best editor is neither Emacs nor Vim, it's Emacs and Vim!](http://spacemacs.org)
+* [Dash - API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
