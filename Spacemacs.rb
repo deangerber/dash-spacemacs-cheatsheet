@@ -255,6 +255,11 @@ cheatsheet do
       command 'SPC j l'
       name 'Goto line'
     end
+
+    entry do
+      command 'SPC c l'
+      name 'Comment or uncomment lines'
+    end
   end
 
   category do
