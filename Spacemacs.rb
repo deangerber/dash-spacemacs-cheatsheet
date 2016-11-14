@@ -164,6 +164,11 @@ cheatsheet do
     end
 
     entry do
+      command 'SPC w M'
+      name 'Swap windows'
+    end
+
+    entry do
       command 'SPC w w'
       name 'Focus next window'
     end
@@ -254,7 +259,7 @@ cheatsheet do
 
   category do
     id 'Other'
- 
+
     entry do
       command ':.,$s/<find text>/<replace text>/gc'
       name 'Find and replace text in buffer, from current line'
