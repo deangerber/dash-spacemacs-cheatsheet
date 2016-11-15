@@ -1,6 +1,6 @@
 # README
 
-Spacemacs cheatsheet for Dash
+Spacemacs cheatsheets for Dash
 
 ## Prerequisites
 
@@ -10,10 +10,11 @@ Install required gems.
 bundle install
 ```
 
-## Build docset 
+## Build docsets
 
 ``` bash
 cheatset generate Spacemacs.rb
+cheatset generate Spacemacs_Ruby_Layer.rb
 ```
 
 ## References
