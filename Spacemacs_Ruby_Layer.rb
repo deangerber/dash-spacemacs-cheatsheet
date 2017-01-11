@@ -29,7 +29,7 @@ cheatsheet do
     id 'RSpec-mode'
 
     entry do
-      command 'SPC m t'
+      command 'SPC m t t'
       name 'Run all specs'
     end
 
