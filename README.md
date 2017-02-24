@@ -14,6 +14,7 @@ bundle install
 
 ``` bash
 cheatset generate Spacemacs.rb
+cheatset generate Spacemacs_Clojure_Layer.rb
 cheatset generate Spacemacs_Ruby_Layer.rb
 cheatset generate Spacemacs_Scheme_Layer.rb
 ```
